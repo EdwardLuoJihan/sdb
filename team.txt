@@ -1,0 +1,27 @@
+<div class="main" id="contact">
+        <div class="main__container">
+          <h1 class="title">Our Team</h1>
+          <hr class="hr">
+          <div class="about-us">
+            <div class="about" id="katherine">
+              <img src="katherinepfp.png" alt="">
+              <h1>Katherine Cai</h1>
+              <h2>Co-President</h2>
+              <p></p>
+            </div>
+            <div class="about" id="michelle">
+              <img src="michellepfp.png" alt="">
+              <h1>Michelle Han</h1>
+              <h2>Co-President</h2>
+              <p></p>
+            </div>
+            <div class="about" id="edward">
+              <img src="/edwardpfp.gif" alt="">
+              <h1>Edward Luo</h1>
+              <h2>The Tech Dude</h2>
+              <p>I code and debate (I'm decent at it). Also the tech dude. Languages I code in: Python, HTML, CSS, and JS.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
